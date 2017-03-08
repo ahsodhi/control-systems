@@ -1,4 +1,4 @@
-# control-systems
+# Control-Systems
 
 Programs made with LabView, for various Robotic and Control Systems.<br/>
 LabView is required to open and view the files.<br/>
