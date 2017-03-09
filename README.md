@@ -1,6 +1,6 @@
 # Control-Systems
 
-Programs made with LabView, for various Automation Control Systems.<br/>
+Programs made with LabView, for various Robotics & STEM Control Systems.<br/>
 LabView is required to open and view the files.<br/>
 http://www.ni.com/download-labview/<br/>
 
