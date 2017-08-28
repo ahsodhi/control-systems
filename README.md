@@ -1,4 +1,4 @@
-# Control-Systems
+# Robotics and Control Systems
 
 Files inside the LabView folder can only be opened with the LabView software.<br/>
 http://www.ni.com/download-labview/<br/>
